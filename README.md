@@ -16,3 +16,14 @@ Contents
 9. AVL Trees
 10. Graphs
 11. Hashing Technique
+
+
+ ### Pointers:
+- Pointer is a address variable that is meant for storing the address of the data.
+- Normal variables are data variables but pointers are address variables.
+- Pointers are used for indirectly accessing the data.
+- Pointers are used for accessing heap memory, resources and parameter passing.
+
+
+
+ 
