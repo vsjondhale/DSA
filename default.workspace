@@ -3,5 +3,6 @@
 	<Workspace title="Workspace">
 		<Project filename="HelloWorld/HelloWorld.cbp" />
 		<Project filename="Pointers/Pointers.cbp" />
+		<Project filename="TailHead/TailHead.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

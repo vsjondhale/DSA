@@ -23,7 +23,9 @@ Contents
 - Normal variables are data variables but pointers are address variables.
 - Pointers are used for indirectly accessing the data.
 - Pointers are used for accessing heap memory, resources and parameter passing.
+- size of pointer is independent of the data
+
+# Recursion
+- Learn DSA using typescript
 
 
-
- 
